@@ -25,7 +25,7 @@ SECRET_KEY = 'm4z+lo*@$k2g*urb!yups9=749u^_67@)n9t_j^e28ze9#g(3k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'HappySizif.pythonanywhere.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'sizif.pythonanywhere.com']
 
 
 # Application definition
